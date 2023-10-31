@@ -1,0 +1,79 @@
+{
+  "female": [
+    {
+      "female": "female",
+      "id": "1.1",
+      "name": "Casual Shirt",
+      "price": 45,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing.",
+      "img": "img/saree 1.jpg"
+    },
+    {
+      "id": "1.2",
+      "name": "Office Shirt",
+      "price": 100,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing.",
+      "img": "img/saree 2.jpg"
+    }
+  ],
+
+  "male": [
+    {
+      "female": "male",
+      "id": "1.1",
+      "name": "Casual Shirt",
+      "price": 45,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing.",
+      "img": "img/saree 1.jpg"
+    },
+    {
+      "title": "title oopp",
+      "id": "1.2",
+      "name": "Office Shirt",
+      "price": 100,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing.",
+      "img": "img/saree 2.jpg"
+    },
+    {
+      "title": "title oopp",
+      "id": "1.2",
+      "name": "Office Shirt",
+      "price": 100,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing.",
+      "img": "img/saree 2.jpg"
+    },
+    {
+      "title": "title oopp",
+      "id": "1.2",
+      "name": "Office Shirt",
+      "price": 100,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing.",
+      "img": "img/saree 2.jpg"
+    }
+  ],
+
+  "kids": [
+    {
+      "kids": "kids",
+      "id": "1.1",
+      "name": "Casual Shirt",
+      "price": 4500,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing.",
+      "img": "img/saree 1.jpg"
+    },
+    {
+      "id": "1.2",
+      "name": "Office Shirt",
+      "price": 100000,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing.",
+      "img": "img/saree 2.jpg"
+    },
+    {
+      "id": "1.2",
+      "name": "Office Shirt",
+      "price": 100000,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing.",
+      "img": "img/saree 2.jpg"
+    }
+  ]
+}
